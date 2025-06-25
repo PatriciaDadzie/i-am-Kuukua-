@@ -50,11 +50,6 @@ Here are some projects I'm focusing on to align with my career goals:
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[PatriciaDadzie]&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
 
 ---
 
