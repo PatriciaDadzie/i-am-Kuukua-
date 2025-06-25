@@ -53,7 +53,7 @@ Here are some projects I'm focusing on to align with my career goals:
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YourGitHubUsername]&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=[PatriciaDadzie]&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 ---
@@ -61,10 +61,10 @@ Here are some projects I'm focusing on to align with my career goals:
 ### 🤝 Connect With Me
 
 <p>
-  <a href="https://www.linkedin.com/in/[YourLinkedInUsername]/" target="_blank">
+  <a href="https://www.linkedin.com/in/[patricia-dadzie-bb8b4b14b]/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" />
   </a>
-  <a href="mailto:[YourEmail]">
+  <a href="mailto:[pdadzie502@gmail.com]">
     <img src="https://img.shields.io/badge/Email-Contact-red" />
   </a>
 </p>
