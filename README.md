@@ -1,6 +1,6 @@
-<!-- Header with Fun 3D Text -->
+<!-- Custom SVG Banner -->
 <p align="center">
-  <img src="https://cooltext.com/Logo-Designs/3D-Text" alt="Welcome to my GitHub Profile" />
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Welcome%20to%20my%20GitHub%20Profile&width=800&height=200" alt="Welcome to my GitHub Profile" />
 </p>
 
 <!-- Animated Heading -->
