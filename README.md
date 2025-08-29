@@ -1,72 +1,71 @@
-<!-- Professional GitHub Profile README Template -->
+<!-- Profile Header -->
+<h1 align="center">Hi 👋, I'm Patricia Dadzie</h1>
+<h3 align="center">Backend & Cloud Engineer in Training | ALX ProDev Learner</h3>
 
-<h1 align="center">Hi there 👋, I'm [Patricia ]</h1>
+---
 
+<!-- Intro / About -->
 <p align="center">
-  <img src="https://img.shields.io/badge/ALX%20Learner-Software%20Engineering%20%26%20Cloud%20Practitioner-blue" alt="ALX Badge" />
-  <img src="https://img.shields.io/badge/Role-Aspiring%20Solutions%20Architect%20%26%20Backend%20Engineer-green" alt="Role Badge" />
+  🚀 I’m driven to make <strong>remote work accessible in Africa</strong> — building 
+  <em>tech that fits real lives, not the other way around.</em><br>
+  I specialize in <strong>Cloud-first backends (AWS)</strong>, 
+  <strong>automation</strong>, and <strong>observability</strong> that’s actually useful. 
 </p>
 
 ---
 
-### 🌍 About Me
-
-I am currently a learner in the **ALX Software Engineering and Cloud Practitioner Program**, passionate about designing and deploying robust web applications that solve real-world problems.
-
-🚀 **What inspires me:**  
-- Turning ideas into scalable applications  
-- Building resilient backend systems  
-- Leveraging cloud platforms for global deployment  
-
-🎯 **My goal:**  
-To grow into a **Solutions Architect** and **Backend Engineer**, building efficient systems and cloud-native applications that make an impact.
+## 🌟 About Me
+- 🎯 **Mission:** To become a backend/cloud engineer who ships reliable, well-documented systems at scale—and uses that skill to unlock remote opportunities for African talent.  
+- 💻 Currently learning **Backend Engineering @ ALX ProDev**.  
+- 🏗️ Working on an **Airbnb Clone** as my portfolio project.  
+- 🌍 Advocate for **technology education in African schools** — helping students discover pathways into tech.  
 
 ---
 
-### 💡 Tech Stack & Tools
-
+## 🔧 Tech Stack
 <p>
-  <img src="https://img.shields.io/badge/Backend-Python%20%7C%20Django%20%7C%20Node.js-blue" />
-  <img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20EC2%20%7C%20S3%20%7C%20CloudFormation-orange" />
-  <img src="https://img.shields.io/badge/Databases-PostgreSQL%20%7C%20MongoDB-lightgrey" />
-  <img src="https://img.shields.io/badge/DevOps-GitHub%20Actions%20%7C%20CI/CD%20%7C%20Docker-important" />
-  <img src="https://img.shields.io/badge/Others-HTML%20%7C%20CSS%20%7C%20JavaScript-yellow" />
+  <!-- Backend -->
+  <strong>Languages & Frameworks:</strong>  
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white" />
+  
+  <br><br>
+  <!-- Cloud -->
+  <strong>Cloud & Tools:</strong>  
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+  
 </p>
 
 ---
 
-### 🛠️ Projects I'm Working On
-
-Here are some projects I'm focusing on to align with my career goals:
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **Cloud Resume Challenge** 🌐 | End-to-end project showcasing website hosting, CI/CD, infrastructure as code, and AWS services. | AWS, Terraform, Python, HTML/CSS |
-| **Backend API for Task Management** 🗂️ | RESTful API for managing tasks with authentication, optimized for scalability. | Django REST Framework, PostgreSQL |
-| **Portfolio Deployment Pipeline** 🚀 | Automated CI/CD pipeline for deploying personal portfolio using GitHub Actions and AWS. | GitHub Actions, AWS S3, CloudFront |
-| **E-commerce Backend Microservices** 🛒 | Scalable backend architecture for an online store with microservices and API gateway. | Node.js, Docker, AWS ECS |
-
-*Looking for project collaborators? Feel free to connect!*
+## 📌 Featured Projects
+| Project | Description | Tech |
+|---------|-------------|------|
+| [🏠 Airbnb Clone](#) | A full-featured Airbnb clone with booking, search, and user management. | Django, PostgreSQL, AWS |
+| [📚 Library System](#) | A library management app for CRUD operations on books. | Django, SQLite |
+| [☁️ Cloud Configurator](#) | Automation scripts for AWS Security Groups & EC2. | AWS, Python, Boto3 |
 
 ---
 
-
----
-
-### 🤝 Connect With Me
-
-<p>
-  <a href="https://www.linkedin.com/in/[patricia-dadzie-bb8b4b14b]/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" />
-  </a>
-  <a href="mailto:[pdadzie502@gmail.com]">
-    <img src="https://img.shields.io/badge/Email-Contact-red" />
-  </a>
+## 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="streak" height="165"/>
 </p>
 
 ---
 
-<div align="center">
-  <strong>“Building with empathy, deploying with purpose.”</strong>
-</div>
-
+## 🤝 Connect With Me
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />
+  </a>
+</p>
