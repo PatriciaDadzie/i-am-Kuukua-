@@ -1,12 +1,9 @@
-<!-- Custom SVG Banner -->
-<p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Welcome%20to%20my%20GitHub%20Profile&width=800&height=200" alt="Welcome to my GitHub Profile" />
+
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C7FF&width=600&lines=%F0%9F%91%8B%20Hi%2C%20I'm%20Patricia%20Dadzie;%F0%9F%9A%80%20Backend%20%26%20Cloud%20Engineering%20Learner;%F0%9F%8C%8D%20Building%20Tech%20for%20Remote%20Work%20in%26Africa" alt="Typing Animation" />
 </p>
 
-<!-- Animated Heading -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C7FF&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Patricia+Dadzie;🚀+Backend+%26+Cloud+Engineering+Learner;🌍+Building+Tech+for+Remote+Work+in+Africa" alt="Typing Animation" />
-</p>
+
 
 ---
 
@@ -30,7 +27,7 @@ Passionate about building **cloud-first backends (AWS)**, **automation**, and **
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
@@ -46,15 +43,6 @@ Passionate about building **cloud-first backends (AWS)**, **automation**, and **
 🔹 Focus: **Scalability, clean architecture, and observability**  
 
 📌 [Check the Repo Here](https://github.com/KuukuaDadzie) <!-- replace with repo link -->
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KuukuaDadzie&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KuukuaDadzie&theme=radical" alt="GitHub Streak" />
-</p>
 
 ---
 
